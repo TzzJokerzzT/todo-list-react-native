@@ -42,7 +42,7 @@ ToDo List es una aplicación que permite a los usuarios gestionar sus tareas dia
 
 4. Inicia la aplicación:
    ```bash
-   npm start
+   npm run web o npm run android
    ```
 
 ## Uso
