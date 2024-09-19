@@ -1,37 +1,12 @@
 {
   "expo": {
-    "name": "todo-list",
-    "slug": "todo-list",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "scheme": "todo-list",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.tzzjokerzzt.todolist"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-router"
-    ],
     "extra": {
       "eas": {
         "projectId": "47022a29-f313-4a19-8216-aff40fabedd2"
       }
+    },
+    "android": {
+      "package": "com.tzzjokerzzt.todolist"
     }
   }
 }
